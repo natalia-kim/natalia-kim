@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @natalia-kim
-- 👀 I’m interested in learning of new opportunities in the tech field
-- 🌱 I’m currently learning html, css and java script
-- 💞️ I’m looking to collaborate on anything that helps the environment, people and pets
+- 👀 I’m interested in learning of new opportunities in the tech field.
+- 🌱 I’m currently learning html, css, java script and python. I am also interested in AI applications. 
+- 💞️ I’m looking to collaborate on anything that helps the environment, people and animals.
 - 📫 How to reach me ...
 
 <!---
